@@ -1,0 +1,29 @@
+@nsobid-AEE8F150DDA1B5A838806E1A5EA6827AD9F3C51E
+
+# Pokémon Legends: Arceus [01001F5010DFA000] v1.1.1 - 16:10 Aspect Ratio Mod - edited from Fl4sh9174's ultrawide mod
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 16:10 Aspect Ratio
+// Use stretch to window option, or force 16:10
+
+@enabled
+01261b98 A8999952
+01261b9c 88F9A772
+0191ddd0 A8999952
+0191ddd4 88F9A772
+019336bc A8999952
+019336c0 88F9A772
+02750654 A8999952
+02750658 88F9A772
+0124edfc A9999952
+0124ee00 89F9A772
+0194a65c A9999952
+0194a660 89F9A772
+@stop
+
+@Edited to 16:10 by david419kr
+https://github.com/david419kr/PLA_16-10_mod
+@Original ultrawide mod credit - Fl4sh_#9174
+https://github.com/Fl4sh9174
