@@ -1,5 +1,7 @@
 Forked from https://github.com/Fl4sh9174/Switch-Ultrawide-Mods  
+  
 Pokemon Legends Arceus v1.1.1 screen aspect ratio mod, edited from original 21:9 to 16:10, for my personal use.  
+  
 Original readme below.  
 --------
 To install the mods:
